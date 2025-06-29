@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aplicación móvil creada en Flutter para ayudar a los usuarios a administrar su dinero en contextos de hiperinflación o deflación. La app sugiere qué productos comprar basándose en el presupuesto disponible y la meta de ahorro del usuario.
 
 ---
@@ -57,3 +58,21 @@ En navegador web:
 ```bash
 flutter run -d chrome
 ```
+=======
+# asistente_presupuesto
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> c922d33 (Primer commit - version funcional con pantalla inicial y sugerencias)
