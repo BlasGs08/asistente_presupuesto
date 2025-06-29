@@ -41,7 +41,7 @@ Ayudar a personas en países con economías inestables a tomar mejores decisione
 ### 🔽 1. Clonar el repositorio
 
 ```bash
-[git clone https://github.com/TU_USUARIO/asistente_presupuesto_adaptativo.git](https://github.com/BlasGs08/asistente_presupuesto.git)
+[git clone https://github.com/BlasGs08/asistente_presupuesto.git
 cd asistente_presupuesto
 ```
 
