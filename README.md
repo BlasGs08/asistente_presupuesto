@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Aplicación móvil creada en Flutter para ayudar a los usuarios a administrar su dinero en contextos de hiperinflación o deflación. La app sugiere qué productos comprar basándose en el presupuesto disponible y la meta de ahorro del usuario.
 
 ---
