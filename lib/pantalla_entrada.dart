@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'home_screen.dart';
 import 'main.dart';
+
 
 class PantallaEntrada extends StatefulWidget {
   @override
@@ -28,16 +30,17 @@ void _irAPrincipal() {
     return;
   }
 
-  Navigator.push(
-    context,
-    MaterialPageRoute(
-      builder: (_) => PantallaInicio(
-        presupuestoTotal: presupuesto,
-        porcentajeAhorro: ahorro / 100,
-      ),
+Navigator.push(
+  context,
+  MaterialPageRoute(
+    builder: (_) => HomeScreen(
+      presupuestoTotal: presupuesto,
+      porcentajeAhorro: ahorro / 100,
     ),
-  );
+  ),
+);
 }
+
 
   @override
   Widget build(BuildContext context) {
